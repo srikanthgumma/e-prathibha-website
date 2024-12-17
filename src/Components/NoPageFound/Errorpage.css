@@ -1,0 +1,8 @@
+#error{
+    width: 500px;
+    height: 600px;
+    margin-left: 900px;
+    margin: auto;
+    display: inline-block;
+    border: 1ps solid black;
+}

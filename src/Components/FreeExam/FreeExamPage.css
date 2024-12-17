@@ -1,0 +1,42 @@
+#cardcontainer{
+    /* margin-top: 60px; */
+    /* margin-bottom: 60px; */
+    /* margin-left: 25%; */
+    height: 100%;
+  }
+  #fbutton{
+    float: right;
+    margin-right: 50px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(38, 37, 45);
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 15px;
+  }
+  ul {
+    float: left;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color:black;
+    height: 100%;
+    overflow: hidden;
+  }
+  li>a{
+    display: block;
+    margin-right: 30px;
+    margin-top: 40px;
+     
+  }
+  #card1{
+    margin-left: 20%;
+    margin-top: 50px;
+    float: left;
+    height: 390px;
+    padding: 20px;
+    /* overflow-y: auto; */
+    margin-right: 20%;
+  }

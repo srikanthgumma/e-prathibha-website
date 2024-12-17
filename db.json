@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "email": "srikanthgummadi516@gmail.com",
+      "name": "Srikanth Gummadi",
+      "phone": "+919505907430",
+      "password": "sri",
+      "confirmPassword": "sri",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,9 @@
+#container{
+width:700px;
+border:1px solid black;
+padding:90px;
+border-radius:30px;
+margin:auto;
+position:relative;
+margin-top:8%;
+}

@@ -1,0 +1,11 @@
+#rlogin{
+  text-decoration: none;
+  color: white;
+  font-size: 1.4rem;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 80px;
+  width: 100px;
+}
+#rlogin:hover{
+  text-decoration: underline;
+}
